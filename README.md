@@ -3,3 +3,5 @@
 Hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.git 
 
 Holaaaaa
+
+agregando texto desde el exterior
